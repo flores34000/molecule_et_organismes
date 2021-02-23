@@ -39,3 +39,19 @@
 
 }
 
+/* les cards********************** */
+.col-marge-bottom{
+    margin-bottom: 20px;
+}
+
+.div-i{
+    display: flex;
+}
+.icone-large{
+    font-size: 40px;
+    margin: 15px;
+}
+.col.col-lg-8.col-md-8.col-sm-12.image-vu img{
+    max-width: 100%;
+    max-height: auto;
+}
