@@ -1,0 +1,41 @@
+
+.bg-container{
+    background: rgba(248, 52, 3, 0.055);
+    height: 100%;
+}
+/* index.html*********************** */
+/* *********************************** */
+
+.container-index{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(248, 52, 3, 0.055);
+}
+.container-index h1{
+    margin-bottom: 40px;
+}
+
+/* authentification.html*************************** */
+/* *************************************** */
+.marge-container{
+    padding-top: 50px;
+}
+.title-form{
+    margin-bottom: 50px;
+}
+.card-marge{
+    margin: 25px;
+}
+
+/* les bannierres************ */
+/* ***************************** */
+.titre-banniere{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+
+}
+
